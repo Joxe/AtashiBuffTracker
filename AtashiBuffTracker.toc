@@ -1,0 +1,10 @@
+## Interface: 11304
+## Title: AtashiBuffTracker
+## Author: Joxe
+## Version: 1.0
+## eMail: nej
+## URL: nej
+## Notes: Tracks buffs in a horrible way
+
+AtashiBuffTracker.lua
+AtashiBuffTracker.xml
